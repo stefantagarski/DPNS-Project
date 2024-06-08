@@ -2,6 +2,6 @@
 
 <h5><b>Contributors to the project</b></h5>
 <ul>
-  <li>Stefan Tagarski - 221184</li>
-  <li>David Hristov - 221085</li>
+  <li><a href="https://www.linkedin.com/in/stefan-tagarski-942518265/">Stefan Tagarski - 221184</a></li>
+  <li><a href="https://www.linkedin.com/in/david-hristov-0985a4176/">David Hristov - 221085</a></li>
 </ul>
