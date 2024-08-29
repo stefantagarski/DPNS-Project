@@ -2,6 +2,6 @@
 
 <h5><b>Contributors to the project</b></h5>
 <ul>
-  <li><a href="https://www.linkedin.com/in/stefan-tagarski-942518265/">Stefan Tagarski</a></li>
-  <li><a href="https://www.linkedin.com/in/david-hristov-0985a4176/">David Hristov</a></li>
+  <li><a href="https://github.com/stefantagarski">Stefan Tagarski</a></li>
+  <li><a href="https://github.com/davidhristov59">David Hristov</a></li>
 </ul>
