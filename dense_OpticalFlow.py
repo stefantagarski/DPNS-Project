@@ -1,8 +1,7 @@
 import cv2
 import numpy as np
 
-# cap = cv2.VideoCapture('video2.webm')
-# cap = cv2.VideoCapture('video1.webm')
+# set examples here
 cap = cv2.VideoCapture('drone_vid.webm')
 
 ret, frame1 = cap.read()
